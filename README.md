@@ -1,6 +1,6 @@
 # Sign Language MNIST Classifier 🤟 / Clasificador de Lenguaje de Señas
 
-*Read this in English | Leer en Español*
+*Read this in [English](## English Version) | Leer en [Español](## Versión en Español)*
 
 ---
 
