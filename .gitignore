@@ -1,0 +1,53 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environments
+# =========================
+.env
+.venv
+venv/
+env/
+
+# =========================
+# IDE
+# =========================
+.spyproject
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Model artifacts
+# Ignore all models except final one
+# =========================
+models/*
+!models/final_mlp_n35.bin
+
+# =========================
+# Large datasets 
+# =========================
+ input/*.csv
+
+# =========================
+# Python build
+# =========================
+build/
+dist/
+*.egg-info/
+
